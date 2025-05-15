@@ -2,7 +2,7 @@
 <p>Este es un proyecto simple de convertidor de monedas desarrollado en Java utilizando Programación Orientada a Objetos (POO). Utiliza la API pública de ExchangeRate-API para obtener tasas de cambio en tiempo real.</p>
 
 <h2>Estado del proyecto</h2>
-<h4 align="center">
+<h4>
 :construction: Proyecto en construcción :construction:
 </h4>
 
