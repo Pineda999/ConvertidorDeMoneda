@@ -20,3 +20,14 @@
   <li>Entrada de datos por consola (si aplica).</li>
   <li>Diseño modular con clases y objetos.</li>
 </ul>
+
+<h2🔑 Configuración de la API</h2>
+<p>Este proyecto utiliza una clave de API de ExchangeRate-API. Puedes obtener la tuya gratuita en:
+👉 https://www.exchangerate-api.com/</p>
+
+<h2>📄 Licencia</h2>
+<p>Este proyecto está bajo la licencia MIT. Puedes usarlo, modificarlo y distribuirlo libremente.</p>
+
+<h2>🤝 Contribuciones</h2>
+<p>¡Las contribuciones son bienvenidas! Si deseas mejorar el código, reportar errores o agregar nuevas funciones, no dudes en abrir un issue o pull request.
+🙌 Agradecimientos especiales a Alura LATAM por brindarnos las bases y el conocimiento para aprender Java y llevar a cabo este proyecto.</p>
