@@ -31,3 +31,6 @@
 <h2>🤝 Contribuciones</h2>
 <p>¡Las contribuciones son bienvenidas! Si deseas mejorar el código, reportar errores o agregar nuevas funciones, no dudes en abrir un issue o pull request.
 🙌 Agradecimientos especiales a Alura LATAM por brindarnos las bases y el conocimiento para aprender Java y llevar a cabo este proyecto.</p>
+
+<h2>Autor</h2>
+<p>Pineda999</p>
