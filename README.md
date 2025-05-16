@@ -21,7 +21,7 @@
   <li>Diseño modular con clases y objetos.</li>
 </ul>
 
-<h2🔑 Configuración de la API</h2>
+<h2>🔑 Configuración de la API</h2>
 <p>Este proyecto utiliza una clave de API de ExchangeRate-API. Puedes obtener la tuya gratuita en:
 👉 https://www.exchangerate-api.com/</p>
 
